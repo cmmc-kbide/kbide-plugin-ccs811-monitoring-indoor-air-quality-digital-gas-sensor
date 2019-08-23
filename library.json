@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-ccs811-monitoring-indoor-air-quality-digital-gas-sensor",
+  "title": "ccs811-monitoring-indoor-air-quality-digital-gas-sensor",
+  "keywords": "ccs811-monitoring-indoor-air-quality-digital-gas-sensor, esp32, esp8266, arduino",
+  "description": "ccs811-monitoring-indoor-air-quality-digital-gas-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ccs811-monitoring-indoor-air-quality-digital-gas-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ccs811-monitoring-indoor-air-quality-digital-gas-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
